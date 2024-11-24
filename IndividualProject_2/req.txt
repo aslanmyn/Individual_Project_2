@@ -12,3 +12,4 @@ django-filter
 drf-yasg
 google-analytics-data
 python-decouple
+drf-spectacular
