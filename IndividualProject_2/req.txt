@@ -1,0 +1,14 @@
+django>=4.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary 
+djangorestframework-simplejwt    
+djoser 
+drf-yasg 
+redis 
+celery 
+django-cors-headers
+django-filter
+drf-yasg
+google-analytics-data
+python-decouple
